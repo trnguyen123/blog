@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# AI artifacts
+models/
+data/raw/
+data/processed/
+outputs/
+runs/
+
+# Environment
+.env
